@@ -1,0 +1,6 @@
+QT
+Blender
+IntelliJ IDEA Community Edition 2020.2.1
+Pycharm 2020.2.3
+GiveriaOT
+Redragon M903
